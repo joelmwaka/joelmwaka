@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joelmwaka
 - 👀 I’m interested in Machine Learning and Software Engineering
 - 🌱 I did my Masters in Autonomous Systems at the University of Stuttgart
-- 💼 I am currently working as a Software Engineer at Thales
+- 💼 I am currently working as a Research Software Engineer in Perception Systems at Hitachi Rail
 - 📫 Reach me via email: joel.mwaka@outlook.com
 
 <!---
